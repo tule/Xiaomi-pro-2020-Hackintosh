@@ -119,7 +119,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v debug=0x100 dart=0 keepsyms=1 -no_compat_check slide=0 -lilubetaall</string>
+		<string>-v debug=0x100 dart=0 keepsyms=1 -no_compat_check slide=0 -lilubetaall brcmfx-country=#a</string>
 		<key>CustomLogo</key>
 		<string>Apple</string>
 		<key>DefaultVolume</key>
